@@ -1,0 +1,33 @@
+1. Demander à l'utilisateur d'entrer la fonction logique sous forme booléenne.
+2. Générer toutes les combinaisons possibles des variables de la fonction (0 et 1).
+3. Pour chaque combinaison de variables :
+   3.1. Évaluer la fonction logique pour cette combinaison de variables.
+   3.2. Afficher la combinaison de variables et le résultat de l'évaluation.
+4. Trouver la première forme canonique en combinant les termes où la fonction est vraie.
+5. Afficher la première forme canonique.
+6. Trouver la deuxième forme canonique en combinant les termes où la fonction est fausse.
+7. Afficher la deuxième forme canonique.1. Demander à l'utilisateur d'entrer la fonction logique sous forme booléenne.
+2. Générer toutes les combinaisons possibles des variables de la fonction (0 et 1).
+3. Pour chaque combinaison de variables :
+   3.1. Évaluer la fonction logique pour cette combinaison de variables.
+   3.2. Afficher la combinaison de variables et le résultat de l'évaluation.
+4. Trouver la première forme canonique en combinant les termes où la fonction est vraie.
+5. Afficher la première forme canonique.
+6. Trouver la deuxième forme canonique en combinant les termes où la fonction est fausse.
+7. Afficher la deuxième forme canonique.1. Demander à l'utilisateur d'entrer la fonction logique sous forme booléenne.
+2. Générer toutes les combinaisons possibles des variables de la fonction (0 et 1).
+3. Pour chaque combinaison de variables :
+   3.1. Évaluer la fonction logique pour cette combinaison de variables.
+   3.2. Afficher la combinaison de variables et le résultat de l'évaluation.
+4. Trouver la première forme canonique en combinant les termes où la fonction est vraie.
+5. Afficher la première forme canonique.
+6. Trouver la deuxième forme canonique en combinant les termes où la fonction est fausse.
+7. Afficher la deuxième forme canonique.1. Demander à l'utilisateur d'entrer la fonction logique sous forme booléenne.
+2. Générer toutes les combinaisons possibles des variables de la fonction (0 et 1).
+3. Pour chaque combinaison de variables :
+   3.1. Évaluer la fonction logique pour cette combinaison de variables.
+   3.2. Afficher la combinaison de variables et le résultat de l'évaluation.
+4. Trouver la première forme canonique en combinant les termes où la fonction est vraie.
+5. Afficher la première forme canonique.
+6. Trouver la deuxième forme canonique en combinant les termes où la fonction est fausse.
+7. Afficher la deuxième forme canonique.
